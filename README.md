@@ -16,8 +16,3 @@
 
 JIKA MASIH BINGUNG BISA LIHAT VIDEO DI BAWAH INI :
 
-# DEMO DEKSTOP
-https://www.youtube.com/watch?v=-KzTPQLE4LQ&t=60s
-
-# DEMO MOBILE
-https://www.youtube.com/watch?v=Yl4cR3ZFx4o
