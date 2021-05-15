@@ -1,11 +1,11 @@
 <h1>Codeigniter 4 Chat Ajax</h1>
 
-<b>Purpose</b>
+<b>Purpose : </b>
 <p>
    I make this respoitory for my self to increase my skill
 </p>
 
-<b>Install</b>
+<b>Install : </b>
  <ul>
   <li>
    <b>composer install</b>
