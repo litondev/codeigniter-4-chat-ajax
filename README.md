@@ -15,15 +15,20 @@
    <b>Copy example.env to .env</b>
   </li>
   <li>
-   <b>edit .env</b> 
-   <b>Create Database First</b>
-   <p>Edit Database Section</p>   
+   <b>Setting file .env</b> 
+     
    <p>
-    database.default.hostname = localhost <br/>
-    database.default.database = NAMADATABASE <br/>
-    database.default.username = USERNAMEDATABASE <br/>
-    database.default.password = PASSWORDDATABASE <br/>
-    database.default.DBDriver = MySQLi <br/>
+      <b>Create Database First</b>
+   </p>    
+   
+   <p>Edit Database Section</p>   
+   
+   <p>
+    database.default.hostname = {your host/address database}  <br/>
+    database.default.database = {your database name}  <br/>
+    database.default.username = {your username database} <br/>
+    database.default.password = {your password database} <br/>
+    database.default.DBDriver = {your database management}  <br/>
    </p>
 
   </li>
@@ -40,4 +45,5 @@
    <p>php spark server</p>
   </li>  
  </ul>
-<b> 
+<b>  Login Data User :  </b> 
+<p> See the seeder user file </p>
